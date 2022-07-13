@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>咨询</div>
 </template>
 
 <script>
@@ -19,7 +17,4 @@ export default {
 </script>
 
 <style scoped lang='less'>
-div {
-  font-size: 24px;
-}
 </style>
